@@ -39,7 +39,7 @@ const API_SITES = {
   innerSource: {
     api: "https://caiji.dyttzyapi.com/api.php/provide/vod",
     name: "电影天堂",
-    adult: false
+    adult: true
  },
 "ruyi": {
 "api": "https://cj.rycjapi.com/api.php/provide/vod",
@@ -64,7 +64,7 @@ const API_SITES = {
 "ffzy": {
 "api": "http://ffzy5.tv/api.php/provide/vod",
 "name": "非凡影视",
-"adult": false,
+"adult": true,
 "detail": "http://ffzy5.tv"
 },
 "红牛": {
